@@ -1,0 +1,16 @@
+{
+  "name": "v-tracker",
+  "version": "0.0.1",
+  "description": "An http proxy that monitors your eth2 validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChainSafe Systems",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "commander": "^4.0.0",
+    "http-proxy": "^1.18.0"
+  }
+}
